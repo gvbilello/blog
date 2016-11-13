@@ -1,24 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+An introductory Rails project for DBC NYC Coyotes 2016.  A simple blog allowing for articles (blog posts) and comments.  Comments can be posted by anyone visiting the site while articles can only be posted by myself (using Rails HTTP basic authentication.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[Visit the site on Heroku](https://tranquil-peak-79263.herokuapp.com/)
